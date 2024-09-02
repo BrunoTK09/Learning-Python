@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ecad1cc9-1461-4735-8d4e-2c3f1074c33e" name="Changes" comment="First Python Projects">
-      <change afterPath="$PROJECT_DIR$/BroCode/5 - madlibs game.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BroCode/6.1 - arithmetic &amp; math.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BroCode/6.2 - arithmetic &amp; math.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BroCode/6.3 - arithmetic &amp; math.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BroCode/6.4 - arithmetic &amp; math - exercise 1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BroCode/6.4 - arithmetic &amp; math - exercise 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BroCode/6.4 - arithmetic &amp; math - exercise 3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BroCode/Type Casting.py" beforeDir="false" afterPath="$PROJECT_DIR$/BroCode/3 - Type Casting.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BroCode/exercise 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/BroCode/4.2 exercise 1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BroCode/exercise 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/BroCode/4.3 exercise 2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BroCode/python for beginners and variables.py" beforeDir="false" afterPath="$PROJECT_DIR$/BroCode/1 &amp; 2 - python for beginners and variables.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BroCode/user input.py" beforeDir="false" afterPath="$PROJECT_DIR$/BroCode/4.1 - user input.py" afterDir="false" />
-    </list>
+    <list default="true" id="ecad1cc9-1461-4735-8d4e-2c3f1074c33e" name="Changes" comment="First Python Projects" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,6 +49,7 @@
     "Python.3 - arithmetic & math.executor": "Run",
     "Python.6.4 - arithmetic & math - exercise 1.executor": "Run",
     "Python.6.4 - arithmetic & math - exercise 2.executor": "Run",
+    "Python.6.4 - arithmetic & math - exercise 3.executor": "Run",
     "Python.Type Casting.executor": "Run",
     "Python.arithmetic & math.executor": "Run",
     "Python.exercise 1.executor": "Run",
@@ -71,7 +59,7 @@
     "Python.python for beginners and variables.executor": "Run",
     "Python.user input.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "Merging main",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
