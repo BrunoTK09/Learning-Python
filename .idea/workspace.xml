@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ecad1cc9-1461-4735-8d4e-2c3f1074c33e" name="Changes" comment="First Python Projects" />
+    <list default="true" id="ecad1cc9-1461-4735-8d4e-2c3f1074c33e" name="Changes" comment="First Python Projects">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BroCode/7 - if statements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BroCode/8 - calculater program.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BroCode/9 - weight conversion program.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,11 +53,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Python.2 - arithmetic & math.executor": "Run",
     "Python.3 - arithmetic & math.executor": "Run",
     "Python.6.4 - arithmetic & math - exercise 1.executor": "Run",
     "Python.6.4 - arithmetic & math - exercise 2.executor": "Run",
     "Python.6.4 - arithmetic & math - exercise 3.executor": "Run",
+    "Python.7 - if statements.executor": "Run",
+    "Python.8 - calculater program.executor": "Run",
     "Python.Type Casting.executor": "Run",
     "Python.arithmetic & math.executor": "Run",
     "Python.exercise 1.executor": "Run",
@@ -59,7 +70,8 @@
     "Python.python for beginners and variables.executor": "Run",
     "Python.user input.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Merging main",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
