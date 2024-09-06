@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ecad1cc9-1461-4735-8d4e-2c3f1074c33e" name="Changes" comment="First Python Projects">
-      <change afterPath="$PROJECT_DIR$/BroCode/10 - Temperature Convertion Program.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BroCode/11 - Logical Operators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BroCode/12 - Conditional Expressions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BroCode/13.1 - String Methods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BroCode/13.2 - String Methods - exercise 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BroCode/14 - String Indexing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BroCode/15 - Format Specifiers.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,6 +54,10 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Python.10 - Temperature Convertion Program.executor": "Run",
     "Python.11 - Logical Operators.executor": "Run",
+    "Python.12 - Conditional Expressions.executor": "Run",
+    "Python.13 - String Methods.executor": "Run",
+    "Python.13.2 - String Methods - exercise 1.executor": "Run",
+    "Python.14 - String Indexing.executor": "Run",
     "Python.2 - arithmetic & math.executor": "Run",
     "Python.3 - arithmetic & math.executor": "Run",
     "Python.6.4 - arithmetic & math - exercise 1.executor": "Run",
