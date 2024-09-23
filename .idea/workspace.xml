@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ecad1cc9-1461-4735-8d4e-2c3f1074c33e" name="Changes" comment="First Python Projects">
-      <change afterPath="$PROJECT_DIR$/BroCode/17 - compound interest calculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BroCode/18 - for loops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BroCode/19 - countdown timer program.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BroCode/20 - nested loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BroCode/21 - lists, sets and tuples.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BroCode/22 - Shopping cart program.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BroCode/23.1 - 2D Collection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BroCode/23.2 2D Collection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BroCode/24 - Quiz Game.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,6 +65,11 @@
     "Python.19 - countdown timer program.executor": "Run",
     "Python.2 - arithmetic & math.executor": "Run",
     "Python.20 - nested loop.executor": "Run",
+    "Python.21 - lists, sets and tuples.executor": "Run",
+    "Python.22 - Shopping cart program.executor": "Run",
+    "Python.23 - 2D Collection.executor": "Run",
+    "Python.23.2 2D Collection.executor": "Run",
+    "Python.24 - Quiz Game.executor": "Run",
     "Python.3 - arithmetic & math.executor": "Run",
     "Python.6.4 - arithmetic & math - exercise 1.executor": "Run",
     "Python.6.4 - arithmetic & math - exercise 2.executor": "Run",
