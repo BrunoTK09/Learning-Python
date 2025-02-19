@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ecad1cc9-1461-4735-8d4e-2c3f1074c33e" name="Changes" comment="First Python Projects">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ecad1cc9-1461-4735-8d4e-2c3f1074c33e" name="Changes" comment="First Python Projects" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,48 +43,48 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Python.10 - Temperature Convertion Program.executor": "Run",
-    "Python.11 - Logical Operators.executor": "Run",
-    "Python.12 - Conditional Expressions.executor": "Run",
-    "Python.13 - String Methods.executor": "Run",
-    "Python.13.2 - String Methods - exercise 1.executor": "Run",
-    "Python.14 - String Indexing.executor": "Run",
-    "Python.15 - Format Specifiers.executor": "Run",
-    "Python.17 - compound interest calculator.executor": "Run",
-    "Python.18 - for loops.executor": "Run",
-    "Python.19 - countdown timer program.executor": "Run",
-    "Python.2 - arithmetic & math.executor": "Run",
-    "Python.20 - nested loop.executor": "Run",
-    "Python.21 - lists, sets and tuples.executor": "Run",
-    "Python.22 - Shopping cart program.executor": "Run",
-    "Python.23 - 2D Collection.executor": "Run",
-    "Python.23.2 2D Collection.executor": "Run",
-    "Python.24 - Quiz Game.executor": "Run",
-    "Python.3 - arithmetic & math.executor": "Run",
-    "Python.6.4 - arithmetic & math - exercise 1.executor": "Run",
-    "Python.6.4 - arithmetic & math - exercise 2.executor": "Run",
-    "Python.6.4 - arithmetic & math - exercise 3.executor": "Run",
-    "Python.7 - if statements.executor": "Run",
-    "Python.8 - calculater program.executor": "Run",
-    "Python.9 - weight conversion program.executor": "Run",
-    "Python.Type Casting.executor": "Run",
-    "Python.arithmetic & math.executor": "Run",
-    "Python.exercise 1.executor": "Run",
-    "Python.exercise 2.executor": "Run",
-    "Python.madlibs game.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.python for beginners and variables.executor": "Run",
-    "Python.user input.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Python.10 - Temperature Convertion Program.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11 - Logical Operators.executor&quot;: &quot;Run&quot;,
+    &quot;Python.12 - Conditional Expressions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.13 - String Methods.executor&quot;: &quot;Run&quot;,
+    &quot;Python.13.2 - String Methods - exercise 1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.14 - String Indexing.executor&quot;: &quot;Run&quot;,
+    &quot;Python.15 - Format Specifiers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17 - compound interest calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.18 - for loops.executor&quot;: &quot;Run&quot;,
+    &quot;Python.19 - countdown timer program.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2 - arithmetic &amp; math.executor&quot;: &quot;Run&quot;,
+    &quot;Python.20 - nested loop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.21 - lists, sets and tuples.executor&quot;: &quot;Run&quot;,
+    &quot;Python.22 - Shopping cart program.executor&quot;: &quot;Run&quot;,
+    &quot;Python.23 - 2D Collection.executor&quot;: &quot;Run&quot;,
+    &quot;Python.23.2 2D Collection.executor&quot;: &quot;Run&quot;,
+    &quot;Python.24 - Quiz Game.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3 - arithmetic &amp; math.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6.4 - arithmetic &amp; math - exercise 1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6.4 - arithmetic &amp; math - exercise 2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6.4 - arithmetic &amp; math - exercise 3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7 - if statements.executor&quot;: &quot;Run&quot;,
+    &quot;Python.8 - calculater program.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9 - weight conversion program.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Type Casting.executor&quot;: &quot;Run&quot;,
+    &quot;Python.arithmetic &amp; math.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercise 1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercise 2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.madlibs game.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.python for beginners and variables.executor&quot;: &quot;Run&quot;,
+    &quot;Python.user input.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
